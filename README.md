@@ -7,3 +7,7 @@ O algoritmo da distância de Levenshtein calcula quantas operações em uma pala
 	<li>Usuário digita uma palavra sem espaço.</li>
 	<li>Algoritmo busca no arquivo "palavras.txt" as palavras mais similares a escolhida (as com menor custo) e as exibe na tela.</li>
 </ul>
+<br><br><br>
+<i>Trabalho de Construção de Algoritmos</i><br>
+<i>Centro Universitário Estadual da Zona Oeste - UEZO</i><br>
+<i>Por Leandro Rocha Musser Carneiro</i>
