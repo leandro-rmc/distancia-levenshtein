@@ -10,4 +10,4 @@ O algoritmo da distância de Levenshtein calcula quantas operações em uma pala
 <br><br><br>
 <i>Trabalho de Construção de Algoritmos.</i><br>
 <i>Centro Universitário Estadual da Zona Oeste - UEZO.</i><br>
-<i>Por <br>Leandro Rocha Musser Carneiro<br>.</i>
+<i>Por <b>Leandro Rocha Musser Carneiro<b>.</i>
