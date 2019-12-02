@@ -5,5 +5,5 @@ O algoritmo da distância de Levenshtein calcula quantas operações em uma pala
 <ul>
 	<li>Usuário digita a quantidade de palavras similares a serem retornadas.</li>
 	<li>Usuário digita uma palavra sem espaço.</li>
-	<li>Algoritmo busca no arquivo "palavras.txt" as palavras mais similares e as retorna.</li>
+	<li>Algoritmo busca no arquivo "palavras.txt" as palavras mais similares a escolhida (as com menor custo) e as exibe na tela.</li>
 </ul>
